@@ -10,4 +10,7 @@ open the code on matlab and dont forget to run the code on live editor from wher
 
 
 
+
+Check the gif Animation here:-
+
 [Capacitive_strain_gauge](https://user-images.githubusercontent.com/130402856/232226728-02e44d1c-85ff-49ad-b19e-efe2d669d48f.gif)
